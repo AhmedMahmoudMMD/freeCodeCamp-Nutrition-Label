@@ -8,7 +8,7 @@ The freeCodeCamp Nutrition Label project shows nutritional info for a food produ
 
 ## Live Demo
 
-You can see how it works by clicking [here](#).
+You can see how it works by clicking [here](https://ahmedmahmoudmmd.github.io/freeCodeCamp-Nutrition-Label/).
 
 ## Technologies Used
 
